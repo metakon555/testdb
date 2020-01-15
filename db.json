@@ -1,10 +1,5 @@
 {
   "login": {
-    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjQsImlzcyI6Imh0dHA6Ly9jcm0tYXBpLmlkLWEucGwvYXBpL2F1dGgvbG9naW4iLCJpYXQiOjE1NzkxMTQ4MjYsImV4cCI6MTU3OTExODQyNiwibmJmIjoxNTc5MTE0ODI2LCJqdGkiOiJUWVZuNHcyeHUxTjE5c05kIn0.gXVRr9iXpo6_B5pcOsCNF2LsTMGrc3QP_Y1SJ0Scmq4",
-    "user": {
-      "name": "Guest",
-      "email": "guest@vue-crud.com",
-      "active": 1},
-    "permissions":["CRM"]
+    "token": "test"
   }
 }
